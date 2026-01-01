@@ -80,7 +80,7 @@ ListenPort=10050
   Port par défaut de l’agent Zabbix : **10050**
 
 
-## 🔐 Ports à Ouvrir (AWS Security Groups)
+##  Ports à Ouvrir (AWS Security Groups)
 
 | Service        | Port  | Description                  |
 |----------------|-------|------------------------------|
